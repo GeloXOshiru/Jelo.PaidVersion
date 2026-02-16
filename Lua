@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/GeloXOshiru/Cyan/refs/heads/main/Png", true))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/GeloXOshiru/Ui-Library/refs/heads/main/Png", true))()
 
 
         local Players = game:GetService("Players")
